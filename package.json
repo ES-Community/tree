@@ -2,7 +2,9 @@
   "name": "@escommunity/tree",
   "version": "1.0.1",
   "description": "Draw beautiful trees in your terminal",
-  "bin": "tree.js",
+  "bin": {
+    "draw-tree": "tree.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
