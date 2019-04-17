@@ -1,6 +1,6 @@
 {
   "name": "@escommunity/tree",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Draw beautiful trees in your terminal",
   "bin": "tree.js",
   "scripts": {
